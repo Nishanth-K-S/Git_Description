@@ -1,5 +1,5 @@
 # Git_Description
-Steps for How to use the Github\ and Git commands
+Steps for How to use the Github\ and\  Git commands
    This is <br/>My First commit \
 - How to go to New Line \n
 Is this the way to go to new line 
