@@ -21,7 +21,7 @@ This creates a new subdirectory named `.git` that contains all of your necessary
 ## Step-7 : Sysncing Resository 
 `git remote add origin "https://github.com/Nishanth-K-S/Git_Description.git"`
 ## Step 7: Push a branch to GitHub
-`git push -u origin master`
+`git push -u origin main`
 ## Step 8: Create a pull request (PR)
 
 ## Step 9: Merge a PR
